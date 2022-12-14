@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "outDir": "./build",
+    "target": "es6",
+    "skipLibCheck": true,
+    "strict": true,
+    "allowJs": true
+  },
+  "ts-node": {
+    "esm": true
+  },
+}
